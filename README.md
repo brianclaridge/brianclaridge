@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianclaridge
-- 👀 I’m interested in dev,ops, ai, retro 
+- 👀 I’m interested in dev, ops, ai, retro 
 - 🌱 I’m currently learning AI, Python, AWS
 - 💞️ I’m looking to collaborate on teaching
 - 📫 How to reach me LinkedIn
