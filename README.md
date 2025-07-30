@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianclaridge
-- 👀 I’m interested in dev, ops, ai, retro 
-- 🌱 I’m currently learning AI, Python, AWS
-- 💞️ I’m looking to collaborate on teaching
+- 👀 I’m interested in leadership, dev, ops, ai, retro gaming
+- 🌱 I’m currently learning how to be an AI context engineer
+- 💞️ I’m looking to collaborate on building things
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I created the OG IGN/Vault message boards...
