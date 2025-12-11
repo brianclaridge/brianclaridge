@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianclaridge
 - 👀 I’m interested in leadership, dev, ops, ai, retro gaming
-- 🌱 I’m currently learning how to be an AI context engineer
+- 🌱 I’m currently learning how to be an "AI Steering Engineer"
 - 💞️ I’m looking to collaborate on building things
 - 📫 How to reach me LinkedIn
 - 😄 Pronouns: he/him
